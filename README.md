@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kesareakku
+- 👋 Hi, I’m @ze's
 - 👀 I’m interested in ...playing basketboll,swminhg.
 - 🌱 I’m currently learning ...c,c++,html,css,python,java.
 - 💞️ I’m looking to collaborate on ...your project for new knowlagement.
